@@ -63,7 +63,7 @@ Some text that is in a sentence. : Section: Title
  ```
 This indicates that the information in this sentence is related to the information found in the section named "Title", and you can use the table of contents to find the page number. 
 
-### Now start writting. 
+### Now start writing. 
 
 That is it! With this simple system, you can start orgnazing your ideas and notes with a notebook! 
 
