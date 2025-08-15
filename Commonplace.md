@@ -30,7 +30,7 @@ This is how you log sections of your commonplace book in the table of contents. 
 
 THe first headings is #, as described in the pervious section. This heading is called the **section** - it is the title that describes what the page (or next few pages) are talking about. 
 
-Then you have the $#^x$ - this is the **the subheading** and it is used to organize a section into parts. Sometimes you might want to organize a subheading, so you will want to use a **subsection** which is denoted as $#^x.x$ - where x.x replresnets the sbheading and order of the subsection.
+Then you have the #^x - this is the **the subheading** and it is used to organize a section into parts. Sometimes you might want to organize a subheading, so you will want to use a **subsection** which is denoted as #^x.x - where x.x replresnets the sbheading and order of the subsection.
 
 Lets give an exmaple:
 
@@ -39,11 +39,11 @@ Lets give an exmaple:
 
 This is a section with the name: Title.
 
-$#^1$ Suhheading
+#^1 Suhheading
 
 This is subheading one.
 
-$#^1.1$
+#^1.1
 
 This is subsection one of subheading one.
  ```
