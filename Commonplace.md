@@ -4,6 +4,8 @@
 
 After reading this document, user should be able to use a commonplace book to organize notes, research, and ideas for daily use. This system is not a task tracker, calender, etc.
 
+---
+
 ### Tools
 
 To get started, you will only need two tools: a notebook and a writing utensil (pen or pencil). You can use addtional tools like sticky notes, stickers, highlighters, etc - but they are not needed for the base system. 
